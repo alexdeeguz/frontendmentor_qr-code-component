@@ -68,5 +68,6 @@ img {
 @media screen and (min-width: 1440px) {
     .card {
         margin: 15.2rem auto;
+        border-radius: 2rem;
     }
 }
